@@ -17,7 +17,7 @@ Software development, Visual Studio Code extensions, and videogames. 🕹️
 
 ## Apps and projects
 
-  [<p align="center"><img src="./charletto.svg" width="260px" align="center"/></p>][Charletto]
+  [<p align="center"><img alt="Mirko || Charletto" src="./charletto.svg" width="260px" align="center"/></p>][Charletto]
 
 ### **Charletto**
 <hr/>
