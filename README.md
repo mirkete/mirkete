@@ -1,5 +1,14 @@
-### Hi there 👋
+## I'm Mirko, hope you stay here! 💕
+[<img src="gmail.svg" fill="rgb()" align="left" width="36px" height="36px">][gmail]
+<br>
+[gmail]: mailto:saenzvalientemirko@gmail.com
+## About me
+- I'm Currently working on [Catalogo Si] <img src="./isotipo.ico" alt="Mirko || Catalogo Si" width="15px" height="15px"/>, an incredible e-shop that helps people of my city with their purchases and sales. 🛍️
+- Main developer of [Charletto] <img src="./charletto.svg" alt="Mirko || Catalogo Si" width="18px" height="18px"/>, have fun answering all type questions with your friends! ⚡😄
+- Future Software Engineer, learning everyday. 📚
 
+[Charletto]: https://charletto.herokuapp.com/
+[Catalogo si]: http://catalogosi.herokuapp.com/
 <!--
 **mirkete/mirkete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +22,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
