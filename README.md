@@ -1,7 +1,10 @@
-# I'm Mirko, hope you stay here! 💕
+# I'm Mirko, hope you enjoy! ❣️
 Argentinian **Web Developer**. Software engineering student. **Getting better**.<br/><br/>
 [<img src="./gmail.svg" align="left" width="26px" height="26px"/>][gmail]
 [<img src="./twitter.svg" align="left" width="26px" height="26px"/>][twitter]
+[<img src="./discord.svg" align="left" width="26px" height="26px"/>][discord]
+[<img src="./instagram.svg" align="left" width="26px" height="26px"/>][instagram]
+[<img src="./linkedin.svg" align="left" width="26px" height="26px"/>][linkedin]
 <br/>
 ### **Ask me about**:
 Software development, Visual Studio Code extensions, and videogames. 🕹️ 
@@ -32,6 +35,9 @@ Its work is simple: after choosing the category, an animation will start and wil
 [Catalogo si]: http://catalogosi.herokuapp.com/
 [gmail]: mailto:saenzvalientemirko@gmail.com
 [twitter]: https://twitter.com/mirkete_
+[discord]: https://discordapp.com/users/mirko#0867
+[instagram]: https://www.instagram.com/mirkosv_/
+[linkedin]: https://www.linkedin.com/in/mirko-saenz-valiente-515673194/
 <!--
 **mirkete/mirkete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
