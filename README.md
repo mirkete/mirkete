@@ -1,11 +1,12 @@
 # I'm Mirko, hope you enjoy! ❣️
-Argentinian **Web Developer**. Software engineering student. **Getting better**.<br/><br/>
 [<img src="./gmail.svg" align="left" width="26px" height="26px"/>][gmail]
 [<img src="./twitter.svg" align="left" width="26px" height="26px"/>][twitter]
 [<img src="./discord.svg" align="left" width="26px" height="26px"/>][discord]
 [<img src="./instagram.svg" align="left" width="26px" height="26px"/>][instagram]
 [<img src="./linkedin.svg" align="left" width="26px" height="26px"/>][linkedin]
 <br/>
+<br/>
+Argentinian **Web Developer**. Software engineering student. **Getting better**.
 ### **Ask me about**:
 Software development, Visual Studio Code extensions, and videogames. 🕹️ 
 
