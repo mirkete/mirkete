@@ -27,8 +27,11 @@ Its work is simple: after choosing the category, an animation will start and wil
 ## **Contact** 
   Feel free to contact me for any reason, via your preffered social media or email.
   <br/><br/>
-  [<img src="./twitter.svg" align="left" width="20px" height="20px"/>][twitter]
   [<img src="./gmail.svg" align="left" width="20px" height="20px"/>][gmail]
+[<img src="./twitter.svg" align="left" width="20px" height="20px"/>][twitter]
+[<img src="./discord.svg" align="left" width="20px" height="20px"/>][discord]
+[<img src="./instagram.svg" align="left" width="20px" height="20px"/>][instagram]
+[<img src="./linkedin.svg" align="left" width="20px" height="20px"/>][linkedin]
   <br/><br/>
 
 [Charletto]: https://charletto.herokuapp.com/
