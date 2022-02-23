@@ -20,7 +20,7 @@ Software development, Visual Studio Code extensions, and videogames. 🕹️
 ### **Catalogo Si**
 <hr/>
 
-Catalogo Si is an app where anybody can upload and manage their products adjust prices by percentaje and update stock massively. It's mainly destined for SMEs that need a safe and accessible catalogue.<br/>
+**Catalogo Si** is an app where anybody can upload and manage their products adjust prices by percentaje and update stock massively. It's mainly destined for SMEs that need a safe and accessible catalogue.<br/>
 **Inspired by my family bussiness and the constant inflation of my country.** <img src="./argentina.gif" width="25px">
 <br/><br/>
 
@@ -29,7 +29,7 @@ Catalogo Si is an app where anybody can upload and manage their products adjust 
 ### **Charletto**
 <hr/>
 The equation is simple; random questions, and funny friends: nothing can go wrong.<br/><br/>
-Charletto is a quiz game that helps you improve your oral expression.
+**Charletto** is a quiz game that helps you improve your oral expression.
 Its work is simple: after choosing the category, an animation will start and will show you a question that you must ask your friends.
 
   [<p align="center"><img alt="Mirko || Charletto" src="./charletto.svg" width="260px" align="center"/></p>][Catalogo Si]
