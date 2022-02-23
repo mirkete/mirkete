@@ -16,21 +16,23 @@ Software development, Visual Studio Code extensions, and videogames. 🕹️
 - Future Software Engineer, learning everyday. 📚
 
 ## Apps and projects
-
-  [<p align="center"><img alt="Mirko || Charletto" src="./isotipo.svg" width="260px" align="center"/></p>][Charletto]
-
+  
 ### **Catalogo Si**
 <hr/>
-Catalogo Si is an app where anybody can upload and manage their products adjust prices by percentaje and update stock massively. It's mainly destined for SMEs that need a safe and accessible catalogue.
-Inspired by my family bussiness and the constant inflation of my country <img src="./argentina.gif" width="25px">
 
-  [<p align="center"><img alt="Mirko || Charletto" src="./charletto.svg" width="260px" align="center"/></p>][Catalogo Si]
+Catalogo Si is an app where anybody can upload and manage their products adjust prices by percentaje and update stock massively. It's mainly destined for SMEs that need a safe and accessible catalogue.<br/>
+**Inspired by my family bussiness and the constant inflation of my country.** <img src="./argentina.gif" width="25px">
+<br/><br/>
+
+  [<p align="center"><img alt="Mirko || Charletto" src="./isotipo.svg" width="260px" align="center"/></p>][Charletto]<br/>
 
 ### **Charletto**
 <hr/>
 The equation is simple; random questions, and funny friends: nothing can go wrong.<br/><br/>
 Charletto is a quiz game that helps you improve your oral expression.
 Its work is simple: after choosing the category, an animation will start and will show you a question that you must ask your friends.
+
+  [<p align="center"><img alt="Mirko || Charletto" src="./charletto.svg" width="260px" align="center"/></p>][Catalogo Si]
 
 ## **Contact** 
   Feel free to contact me for any reason, via your preffered social media or email.
