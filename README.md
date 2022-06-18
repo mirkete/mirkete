@@ -29,6 +29,7 @@ Software development, Visual Studio Code extensions, and videogames. 🕹️
 ### **Charletto**
 <hr/>
 The equation is simple; random questions, and funny friends: nothing can go wrong.<br/><br/>
+
 **Charletto** is a quiz game that helps you improve your oral expression.
 Its work is simple: after choosing the category, an animation will start and will show you a question that you must ask your friends.
 
