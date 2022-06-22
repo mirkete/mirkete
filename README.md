@@ -45,7 +45,7 @@ Its work is simple: after choosing the category, an animation will start and wil
 [<img src="./linkedin.svg" align="left" width="20px" height="20px"/>][linkedin]
   <br/><br/>
 
-[Charletto]: https://charletto.herokuapp.com/
+[Charletto]: https://charletto.vercel.app/
 [Catalogo si]: http://catalogosi.herokuapp.com/
 [gmail]: mailto:saenzvalientemirko@gmail.com
 [twitter]: https://twitter.com/mirkete_
