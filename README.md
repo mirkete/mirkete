@@ -36,7 +36,7 @@ Its work is simple: after choosing the category, an animation will start and wil
   [<p align="center"><img alt="Mirko || Charletto" src="./charletto.svg" width="260px" align="center"/></p>][Charletto]
 
 ## **Contact** 
-  Feel free to contact me for any reason, via your preffered social media or email.
+  Feel free to contact me.
   <br/><br/>
   [<img src="./gmail.svg" align="left" width="20px" height="20px"/>][gmail]
 [<img src="./twitter.svg" align="left" width="20px" height="20px"/>][twitter]
