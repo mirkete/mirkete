@@ -21,7 +21,7 @@ Software development, Visual Studio Code extensions, and videogames. 🕹️
 <hr/>
 
 **Catalogo Si** is an app where anybody can upload and manage their products adjust prices by percentaje and update stock massively. It's mainly destined for SMEs that need a safe and accessible catalogue.<br/>
-**Inspired by my family bussiness and the constant inflation of my country.** <img src="./argentina.gif" width="25px" height="25px">
+**Inspired by the constant inflation of my country.** <img src="./argentina.gif" width="25px" height="25px">
 <br/><br/>
 
   [<p align="center"><img alt="Mirko || Charletto" src="./isotipo.svg" width="260px" align="center"/></p>][Catalogo si]<br/>
