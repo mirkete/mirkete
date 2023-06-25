@@ -6,7 +6,7 @@
 [<img src="./linkedin.svg" align="left" width="26px" height="26px"/>][linkedin]
 <br/>
 <br/>
-Argentinian **Web Developer**. Software engineering student.
+Argentinian **Web Developer**. Informatics Engineering student.
 ### **Ask me about**:
 Software development, Visual Studio Code extensions, and videogames. 🕹️ 
 
