@@ -15,36 +15,6 @@ Software development, Visual Studio Code extensions, and videogames. 🕹️
 - Main developer of [Charletto] <img src="./charletto.svg" alt="Mirko || Catalogo Si" width="18px" height="18px"/>, have fun answering all type questions with your friends! ⚡😄
 - Future Software Engineer, learning everyday. 📚
 
-## Apps and projects
-  
-### **Catalogo Si**
-<hr/>
-
-**Catalogo Si** is an app where anybody can upload and manage their products adjust prices by percentaje and update stock massively. It's mainly destined for SMEs that need a safe and accessible catalogue.<br/>
-**Inspired by the constant inflation of my country.** <img src="./argentina.gif" width="25px" height="25px">
-<br/><br/>
-
-  [<p align="center"><img alt="Mirko || Charletto" src="./isotipo.svg" width="260px" align="center"/></p>][Catalogo si]<br/>
-
-### **Charletto**
-<hr/>
-The equation is simple; random questions, and funny friends: nothing can go wrong.<br/><br/>
-
-**Charletto** is a quiz game that helps you improve your oral expression.
-Its work is simple: after choosing the category, an animation will start and will show you a question that you must ask your friends.
-
-  [<p align="center"><img alt="Mirko || Charletto" src="./charletto.svg" width="260px" align="center"/></p>][Charletto]
-
-## **Contact** 
-  Feel free to contact me.
-  <br/><br/>
-  [<img src="./gmail.svg" align="left" width="20px" height="20px"/>][gmail]
-[<img src="./twitter.svg" align="left" width="20px" height="20px"/>][twitter]
-[<img src="./discord.svg" align="left" width="20px" height="20px"/>][discord]
-[<img src="./instagram.svg" align="left" width="20px" height="20px"/>][instagram]
-[<img src="./linkedin.svg" align="left" width="20px" height="20px"/>][linkedin]
-  <br/><br/>
-
 [Charletto]: https://charletto.vercel.app/
 [Catalogo si]: https://sicatalogo.vercel.app/
 [gmail]: mailto:saenzvalientemirko@gmail.com
