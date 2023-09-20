@@ -11,7 +11,7 @@ Argentinian **Web Developer**
 Software development, Visual Studio Code extensions, and videogames. 🕹️ 
 
 ## About me
-* Student of informatics engineering (Universidad de Buenos Aires)
+* Informatics Engineering student (Universidad de Buenos Aires).
 * Learning everyday. 📖
 
 [gmail]: mailto:saenzvalientemirko@gmail.com
