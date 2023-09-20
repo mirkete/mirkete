@@ -11,12 +11,9 @@ Argentinian **Web Developer**. Informatics Engineering student.
 Software development, Visual Studio Code extensions, and videogames. 🕹️ 
 
 ## About me
-- I'm currently working on [Catalogo Si] <img src="./isotipo.svg" alt="Mirko || Catalogo Si" width="15px" height="15px"/>, an incredible app that helps people of my city with their purchases and sales administration 🛍️
-- Main developer of [Charletto] <img src="./charletto.svg" alt="Mirko || Catalogo Si" width="18px" height="18px"/>, have fun answering all type questions with your friends! ⚡😄
-- Future Software Engineer, learning everyday. 📚
+- Student of informatics engineering (Universidad de Buenos Aires)
+- Learning everyday. 📖
 
-[Charletto]: https://charletto.vercel.app/
-[Catalogo si]: https://sicatalogo.vercel.app/
 [gmail]: mailto:saenzvalientemirko@gmail.com
 [twitter]: https://twitter.com/mirkete_
 [discord]: https://discordapp.com/users/mirko#0867
