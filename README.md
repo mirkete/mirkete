@@ -6,13 +6,13 @@
 [<img src="./linkedin.svg" align="left" width="26px" height="26px"/>][linkedin]
 <br/>
 <br/>
-Argentinian **Web Developer**. Informatics Engineering student.
+Argentinian **Web Developer**
 ### **Ask me about**:
 Software development, Visual Studio Code extensions, and videogames. 🕹️ 
 
 ## About me
-- Student of informatics engineering (Universidad de Buenos Aires)
-- Learning everyday. 📖
+* Student of informatics engineering (Universidad de Buenos Aires)
+* Learning everyday. 📖
 
 [gmail]: mailto:saenzvalientemirko@gmail.com
 [twitter]: https://twitter.com/mirkete_
