@@ -11,6 +11,7 @@ Argentinian **Web Developer**
 Software development, Visual Studio Code extensions, and videogames. 🕹️ 
 
 ## About me
+* 18 y/o
 * Informatics Engineering student (Universidad de Buenos Aires).
 * Learning everyday. 📖
 
