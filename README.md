@@ -1,4 +1,4 @@
-# Mirko Saenz Valiente - Fullstack developer  <img width="25px" height="26px" src="./coding.gif">
+# Mirko Saenz Valiente<img width="25px" height="26px" src="./coding.gif">
 [<img src="./gmail.svg" align="left" width="26px" height="26px"/>][gmail]
 [<img src="./twitter.svg" align="left" width="26px" height="26px"/>][twitter]
 [<img src="./discord.svg" align="left" width="26px" height="26px"/>][discord]
@@ -6,7 +6,7 @@
 [<img src="./linkedin.svg" align="left" width="26px" height="26px"/>][linkedin]
 <br/>
 <br/>
-Argentinian **Web Developer**
+Argentinian **Developer**
 ### **Ask me about**:
 Software development, Visual Studio Code extensions, and videogames. 🕹️ 
 
