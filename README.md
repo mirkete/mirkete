@@ -1,5 +1,4 @@
 # Mirko Saenz Valiente <img width="25px" height="26px" src="./coding.gif">
-[<img src="./gmail.svg" align="left" width="26px" height="26px"/>][gmail]
 [<img src="./twitter.svg" align="left" width="26px" height="26px"/>][twitter]
 [<img src="./discord.svg" align="left" width="26px" height="26px"/>][discord]
 [<img src="./instagram.svg" align="left" width="26px" height="26px"/>][instagram]
@@ -15,7 +14,6 @@ Software development, Visual Studio Code extensions, and videogames. 🕹️
 * Informatics Engineering student (Universidad de Buenos Aires).
 * Learning everyday. 📖
 
-[gmail]: mailto:saenzvalientemirko@gmail.com
 [twitter]: https://twitter.com/mirkete_
 [discord]: https://discordapp.com/users/mirko#0867
 [instagram]: https://www.instagram.com/mirkosv_/
