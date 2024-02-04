@@ -5,11 +5,11 @@
 [<img src="./linkedin.svg" align="left" width="26px" height="26px"/>][linkedin]
 <br/>
 <br/>
-**Desarrollador** argentino 
+**Desarrollador de software** argentino.
 
 ## About me
-* 18 años
-* Estudiante de Ingeniería Informatica
+* 18 años.
+* Estudiante de Ingeniería Informatica.
 * Aprendiendo todos los dias. 📚
 
 [twitter]: https://twitter.com/mirkete_
