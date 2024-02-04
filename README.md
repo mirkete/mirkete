@@ -5,14 +5,12 @@
 [<img src="./linkedin.svg" align="left" width="26px" height="26px"/>][linkedin]
 <br/>
 <br/>
-Argentinian **Developer**
-### **Ask me about**:
-Software development, Visual Studio Code extensions, and videogames. 🕹️ 
+**Desarrollador** argentino 
 
 ## About me
-* 18 y/o
-* Informatics Engineering student (Universidad de Buenos Aires).
-* Learning everyday. 📖
+* 18 años
+* Estudiante de Ingeniería Informatica
+* Aprendiendo todos los dias. 📚
 
 [twitter]: https://twitter.com/mirkete_
 [discord]: https://discordapp.com/users/mirko#0867
