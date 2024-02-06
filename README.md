@@ -7,7 +7,7 @@
 <br/>
 **Desarrollador de software** argentino.
 
-## About me
+## Sobre mí
 * 18 años.
 * Estudiante de Ingeniería Informatica.
 * Aprendiendo todos los dias. 📚
