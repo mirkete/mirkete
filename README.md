@@ -10,7 +10,6 @@
 ## Sobre mí
 * 18 años.
 * Estudiante de Ingeniería Informatica.
-* Aprendiendo todos los dias. 📚
 
 [twitter]: https://twitter.com/mirkete_
 [discord]: https://discordapp.com/users/mirko#0867
