@@ -5,8 +5,6 @@
 [<img src="./linkedin.svg" align="left" width="26px" height="26px"/>][linkedin]
 <br/>
 <br/>
-**Desarrollador de software** argentino.
-
 ## Sobre mí
 * 18 años.
 * Estudiante de Ingeniería Informatica.
